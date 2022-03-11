@@ -1,4 +1,4 @@
-<?p
+<?php
   $states = "California Georgia Indiana Louisiana Minnesota Texas Virginia";
   $statesArray1 = array();
 
