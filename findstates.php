@@ -4,6 +4,6 @@
 
   $regex = "/[nia]*/";
   if(preg_match($regex, $states, $statesArray1)) {
-    echo <p>$statesArray1[0]</p>;
+    echo "<p>$statesArray1[0]</p>";
   }
 ?>
