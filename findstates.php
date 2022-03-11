@@ -3,7 +3,8 @@
   $statesArray1 = array();
 
   $regex = "/(.+)nia /i";
-  if(preg_match($regex, $states, $statesArray1)) {
+  $regex2 = "/(^G) (*a)/"
+  if(preg_match($regex2, $states, $statesArray1)) {
     echo "<p>$statesArray1[0]</p>";
   }
 ?>
