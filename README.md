@@ -22,9 +22,9 @@ Write a PHP script named findstates.php that creates a variable $states with the
 
 ## Problem2 //Random Sentence Generator
 
-`$noun = array('boy', 'girl','cow', 'watermelon', 'Samsung Note', 'tree', 'tractor', 'iPhone', 'car', 'chicken', 'pen', 'chair', 'potato');
+`$noun = array('boy', 'girl','cow', 'watermelon', 'Samsung Note', 'tree', 'tractor', 'iPhone', 'car', 'chicken', 'pen', 'chair', 'potato');`
 
-$verb = array('kissed', 'fried', 'dropped', 'wrote with', 'called on', 'chopped', 'fed', 'sat on', 'skinned', 'exploded', 'drove', 'ruined');`
+`$verb = array('kissed', 'fried', 'dropped', 'wrote with', 'called on', 'chopped', 'fed', 'sat on', 'skinned', 'exploded', 'drove', 'ruined');`
 
  
 
